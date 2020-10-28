@@ -10,6 +10,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
   <component name="ProjectId" id="1jUoEEUHeNkVcLa3Z5Rzl56Uwn4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,6 +26,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -29,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603867919452</updated>
-      <workItem from="1603867920982" duration="856000" />
+      <workItem from="1603867920982" duration="3391000" />
     </task>
     <servers />
   </component>
@@ -37,9 +46,28 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1126" y="261" key="NewPhpFileDialog" timestamp="1603867955822">
+    <state x="-1193" y="140" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603869918171">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
-    <state x="-1126" y="261" key="NewPhpFileDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603867955822" />
+    <state x="-1193" y="140" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603869918171" />
+    <state x="-1180" y="83" key="FileChooserDialogImpl" timestamp="1603870270717">
+      <screen x="-1920" y="-183" width="1920" height="1050" />
+    </state>
+    <state x="-1180" y="83" key="FileChooserDialogImpl/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603870270717" />
+    <state x="-1258" y="49" key="NewPhpClassDialog" timestamp="1603869942171">
+      <screen x="-1920" y="-183" width="1920" height="1050" />
+    </state>
+    <state x="-1258" y="49" key="NewPhpClassDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603869942171" />
+    <state x="-1126" y="261" key="NewPhpFileDialog" timestamp="1603869972492">
+      <screen x="-1920" y="-183" width="1920" height="1050" />
+    </state>
+    <state x="-1126" y="261" key="NewPhpFileDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603869972492" />
+    <state x="-1459" y="-13" key="SettingsEditor" timestamp="1603871259899">
+      <screen x="-1920" y="-183" width="1920" height="1050" />
+    </state>
+    <state x="-1459" y="-13" key="SettingsEditor/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603871259899" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\Users\SETU\Local Sites\launcher\app\public\</wordpressPath>
   </component>
 </project>

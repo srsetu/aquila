@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8407b6ad-fa91-42c4-ab53-e2bafe0ac011" name="Default Changelist" comment="" />
+    <list default="true" id="8407b6ad-fa91-42c4-ab53-e2bafe0ac011" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/template-parts/header/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,9 @@
   </component>
   <component name="DrupalConfiguration">
     <drupalPath />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JoomlaConfiguration">
     <joomlaConfigPath />
@@ -43,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603867919452</updated>
-      <workItem from="1603867920982" duration="11897000" />
+      <workItem from="1603867920982" duration="12397000" />
+      <workItem from="1603947067439" duration="2708000" />
     </task>
     <servers />
   </component>
@@ -63,10 +72,10 @@
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
     <state x="-1258" y="49" key="NewPhpClassDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603869942171" />
-    <state x="-1126" y="261" key="NewPhpFileDialog" timestamp="1603869972492">
+    <state x="-1126" y="261" key="NewPhpFileDialog" timestamp="1603952389897">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
-    <state x="-1126" y="261" key="NewPhpFileDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603869972492" />
+    <state x="-1126" y="261" key="NewPhpFileDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603952389897" />
     <state x="-1459" y="-13" key="SettingsEditor" timestamp="1603871259899">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>

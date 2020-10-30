@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8407b6ad-fa91-42c4-ab53-e2bafe0ac011" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/template-parts/header/nav.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603867919452</updated>
       <workItem from="1603867920982" duration="12397000" />
-      <workItem from="1603947067439" duration="2708000" />
+      <workItem from="1603947067439" duration="3668000" />
     </task>
     <servers />
   </component>
@@ -64,6 +61,10 @@
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
     <state x="-1193" y="140" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603869918171" />
+    <state x="-1386" y="-181" key="CommitChangelistDialog2" timestamp="1603953204595">
+      <screen x="-1920" y="-183" width="1920" height="1050" />
+    </state>
+    <state x="-1386" y="-181" key="CommitChangelistDialog2/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603953204595" />
     <state x="-1180" y="83" key="FileChooserDialogImpl" timestamp="1603870270717">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>

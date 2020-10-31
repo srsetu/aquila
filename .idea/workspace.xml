@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8407b6ad-fa91-42c4-ab53-e2bafe0ac011" name="Default Changelist" comment="">
+    <list default="true" id="8407b6ad-fa91-42c4-ab53-e2bafe0ac011" name="Default Changelist" comment="Adding Singleton">
+      <change afterPath="$PROJECT_DIR$/inc/classes/class-aquila-theme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/helpers/autoloader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/traits/trait-singleton.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/src/library" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -50,37 +54,43 @@
       <updated>1603867919452</updated>
       <workItem from="1603867920982" duration="12397000" />
       <workItem from="1603947067439" duration="3668000" />
+      <workItem from="1604080539425" duration="5622000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Singleton" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1193" y="140" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603869918171">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
     <state x="-1193" y="140" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603869918171" />
-    <state x="-1386" y="-181" key="CommitChangelistDialog2" timestamp="1603953204595">
+    <state x="-1386" y="-181" key="CommitChangelistDialog2" timestamp="1604114217495">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
-    <state x="-1386" y="-181" key="CommitChangelistDialog2/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603953204595" />
+    <state x="-1386" y="-181" key="CommitChangelistDialog2/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1604114217495" />
     <state x="-1180" y="83" key="FileChooserDialogImpl" timestamp="1603870270717">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
     <state x="-1180" y="83" key="FileChooserDialogImpl/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603870270717" />
-    <state x="-1258" y="49" key="NewPhpClassDialog" timestamp="1603869942171">
+    <state x="-1258" y="49" key="NewPhpClassDialog" timestamp="1604113258861">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
-    <state x="-1258" y="49" key="NewPhpClassDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603869942171" />
-    <state x="-1126" y="261" key="NewPhpFileDialog" timestamp="1603952389897">
+    <state x="-1258" y="49" key="NewPhpClassDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1604113258861" />
+    <state x="-1126" y="261" key="NewPhpFileDialog" timestamp="1604113269515">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
-    <state x="-1126" y="261" key="NewPhpFileDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603952389897" />
-    <state x="-1459" y="-13" key="SettingsEditor" timestamp="1603871259899">
+    <state x="-1126" y="261" key="NewPhpFileDialog/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1604113269515" />
+    <state x="-1459" y="-13" key="SettingsEditor" timestamp="1604114044936">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
-    <state x="-1459" y="-13" key="SettingsEditor/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603871259899" />
+    <state x="-1459" y="-13" key="SettingsEditor/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1604114044936" />
   </component>
   <component name="WordPressConfiguration" enabled="true">
     <wordpressPath>C:\Users\SETU\Local Sites\launcher\app\public\</wordpressPath>

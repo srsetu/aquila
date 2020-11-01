@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8407b6ad-fa91-42c4-ab53-e2bafe0ac011" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inc/classes/class-assets.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/classes/class-aquila-theme.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/classes/class-aquila-theme.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/header/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/header/nav.php" afterDir="false" />
+    <list default="true" id="8407b6ad-fa91-42c4-ab53-e2bafe0ac011" name="Default Changelist" comment="Adding Singleton">
+      <change afterPath="$PROJECT_DIR$/inc/classes/class-menus.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <workItem from="1603867920982" duration="12397000" />
       <workItem from="1603947067439" duration="3668000" />
       <workItem from="1604080539425" duration="5622000" />
-      <workItem from="1604248952895" duration="2422000" />
+      <workItem from="1604248952895" duration="2890000" />
     </task>
     <servers />
   </component>
@@ -72,10 +68,10 @@
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
     <state x="-1193" y="140" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1603869918171" />
-    <state x="-1386" y="-181" key="CommitChangelistDialog2" timestamp="1604114217495">
+    <state x="-1386" y="-181" key="CommitChangelistDialog2" timestamp="1604251394267">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
-    <state x="-1386" y="-181" key="CommitChangelistDialog2/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1604114217495" />
+    <state x="-1386" y="-181" key="CommitChangelistDialog2/0.0.1366.738/-1920.-183.1920.1050@-1920.-183.1920.1050" timestamp="1604251394267" />
     <state x="-1180" y="83" key="FileChooserDialogImpl" timestamp="1603870270717">
       <screen x="-1920" y="-183" width="1920" height="1050" />
     </state>
